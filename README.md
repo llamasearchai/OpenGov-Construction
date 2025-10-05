@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="OpenGov-Construction.png" alt="OpenGov-Construction Logo" width="420">
+  <br/>
+  <i>Federal/State construction analytics toolkit (IN, OH, CA)</i>
+  
+</p>
+
 # OpenGov-Construction
 
 A terminal-first Python toolkit for Federal and State construction program workflows, with specialized support for Indiana, Ohio, and California.
