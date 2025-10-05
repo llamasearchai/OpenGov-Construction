@@ -7,7 +7,12 @@ __pycache__/
 dist/
 build/
 *.egg-info/
-*.png
+.coverage
+
+# Ignore data files but allow the logo
 *.csv
 *.graphml
+
+# Allow the logo file to be tracked
+!OpenGov-Construction.png
 
